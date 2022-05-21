@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Dan Gauerke</title>
+    <link>https://colliercoder.github.io/Daniel_portfolio/post/</link>
+    <description>Recent content in Projects on Dan Gauerke</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 May 2022 12:00:00 -0500</lastBuildDate><atom:link href="https://colliercoder.github.io/Daniel_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Employee Roster to Monthly Hours Report</title>
+      <link>https://colliercoder.github.io/Daniel_portfolio/post/project-1/</link>
+      <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://colliercoder.github.io/Daniel_portfolio/post/project-1/</guid>
+      <description>Created a program that takes data from an employee roster excel sheet Takes data and creates 3 seperate dictionaries to populate 3 seperate excel sheets These 3 excel sheets are for Holiday/Sunday, Nighttime Overtime, and Regular Overtime By creating this program I saved myself a very very tedious task to complete at the end of the month What used to take 8 hours now takes the click of a button :)!</description>
+    </item>
+    
+    <item>
+      <title>House Prices - Advanced Regression Techniques </title>
+      <link>https://colliercoder.github.io/Daniel_portfolio/post/project2/</link>
+      <pubDate>Fri, 20 May 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://colliercoder.github.io/Daniel_portfolio/post/project2/</guid>
+      <description>I am currently learning by creating follow-along jupyter notebooks from experts in order to eventually (soon), take what I have learned and conduct my own study.
+Some helpful notebooks I have followed along with so far&amp;hellip; https://www.kaggle.com/code/pmarcelino/comprehensive-data-exploration-with-python
+-Pedro Marcelino, PHD
+I completed this follow along notebook and learned the following
+ We can perform log transformations to positively skewed features in order to normalize them Learned what Kurtosis means How to make correlation matrix&amp;rsquo;s (heat map style) How to create pair plots Think critically about outliers  https://www.</description>
+    </item>
+    
+  </channel>
+</rss>
